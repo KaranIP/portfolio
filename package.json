@@ -1,0 +1,14 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
